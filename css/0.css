@@ -1,0 +1,8 @@
+@media (min-width: 0px) {
+    :root {
+        --huge: 30pt;
+    }
+    main.projects ol li {
+        width: 100%;
+    }
+}
